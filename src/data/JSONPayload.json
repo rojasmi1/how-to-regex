@@ -1,0 +1,36 @@
+{
+    "_id": "5f81f43a60324af39f6e1777",
+    "index": 0,
+    "guid": "6c5edf55-defc-427f-87fa-9cf05e21ddd3",
+    "isActive": true,
+    "balance": 2099.48,
+    "picture": "http://placehold.it/32x32",
+    "age": 30,
+    "eyeColor": "blue",
+    "name": {
+        "first": "Brooke",
+        "last": "Mcguire"
+    },
+    "company": "ISBOL",
+    "email": "brooke.mcguire@isbol.biz",
+    "phone": "+1 (881) 496-2773",
+    "address": "860 Dekoven Court, Fairforest, Texas, 4648",
+    "about": "Quis culpa cillum quis deserunt Lorem incididunt cillum ipsum ipsum ullamco esse exercitation mollit.",
+    "registered": "Sunday, January 5, 2020 12:45 PM",
+    "latitude": "-25.560324",
+    "longitude": "28.437375",
+    "tags": [
+        "eiusmod"
+    ],
+    "range": [
+        0
+    ],
+    "friends": [
+        {
+            "id": 0,
+            "name": "Sharon Caldwell"
+        }
+    ],
+    "greeting": "Hello, Brooke! You have 7 unread messages.",
+    "favoriteFruit": "apple"
+}
