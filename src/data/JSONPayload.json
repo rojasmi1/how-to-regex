@@ -19,12 +19,8 @@
     "registered": "Sunday, January 5, 2020 12:45 PM",
     "latitude": "-25.560324",
     "longitude": "28.437375",
-    "tags": [
-        "eiusmod"
-    ],
-    "range": [
-        0
-    ],
+    "tags": ["eiusmod"],
+    "range": [0],
     "friends": [
         {
             "id": 0,

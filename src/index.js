@@ -4,7 +4,7 @@
 
 
 const replaseProps = /"(.+)":/
-const replaceStringVals = /:\s?"(.+)"/
-const replaceNumberVals = /:\s?(\d+(?:.\d+)?)/
-const replaseBooleanVals = /:\s?(true|false)/
+const replaceStringVals = /:\s*"(.+)"/
+const replaceNumberVals = /:\s*(\d+(?:.\d+)?)/
+const replaseBooleanVals = /:\s*(true|false)/
 
