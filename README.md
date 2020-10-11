@@ -1,2 +1,2 @@
-# how-to-regex
+# How To Regex
 Regex Web Talk
