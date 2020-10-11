@@ -56,3 +56,17 @@ Pretty much all the main browsers support regex with its main features, flags an
 
 Using any third-party library like XRegExp (Runtime) or Regenerate (Buildtime)
 
+
+## Tips and Gotcha's
+
+**[^]** - Set negation.
+
+**[.]** - Dot inside a set literally means a dot.
+
+**[-]** - Dash inside a set is a special character so it has to be escaped.
+
+**()** - Capturing groups have a performance penalty, be careful when using them and take advantage of non-capturing groups.
+
+**/REGEX/s** - ES2018 added the s "dotAll" flag, which allows the dot to also match line terminators.
+
+
